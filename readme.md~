@@ -1,0 +1,19 @@
+These are the instructions to setup a 3d printed nose poke device using arduino and a couple of
+cheap electronic elements.
+In case one doesn't have a 3D printer available, a small trip to a hardware shop 
+should provide all necessary parts to build a poke device.
+
+The files for printing the part and the wiring diagram can be found in this repository as well.
+One of the is *.stl and the other *.
+
+
+Elements needed:
+IR Led
+IR photodiode 
+Optional:
+Color LED
+Piezo Buzzer
+
+the wiring diagram
+
+
